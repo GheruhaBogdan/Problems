@@ -54,6 +54,5 @@ cin >> choice;
 } else {
     cout << "Invalid word! type odd or even!";
 }
-
-
+cout << "problem solved";
 } 
